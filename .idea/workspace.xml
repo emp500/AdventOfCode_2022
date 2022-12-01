@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a18ac636-9864-4c2d-9095-86fbe06a0646" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/sh/day1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/sh/day1/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/sh/day1/runit.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/sh/day1/runit.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669915974669</updated>
-      <workItem from="1669915976551" duration="2305000" />
+      <workItem from="1669915976551" duration="3947000" />
     </task>
     <servers />
   </component>
